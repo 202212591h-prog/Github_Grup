@@ -1,0 +1,14 @@
+# evaluacion_credito.py
+
+cliente = "Juan Pérez"
+ingresos = 4500
+deudas = 1000
+
+print("=== EVALUACIÓN DE CRÉDITO ===")
+
+if deudas < ingresos * 0.5:
+    print("Cliente:", cliente)
+    print("Estado: APTO PARA CRÉDITO")
+else:
+    print("Cliente:", cliente)
+    print("Estado: NO APTO")
