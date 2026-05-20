@@ -1,0 +1,12 @@
+# reporte.py
+
+print("=== REPORTE FINANCIERO ===")
+
+cliente = "Juan Pérez"
+riesgo = "Bajo"
+credito = 45000
+
+print("Cliente:", cliente)
+print("Nivel de Riesgo:", riesgo)
+print("Monto aprobado:", credito)
+print("Reporte generado correctamente")
