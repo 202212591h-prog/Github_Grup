@@ -1,0 +1,11 @@
+# login.py
+
+print("=== SISTEMA FINANCIERO ===")
+
+usuario = input("Ingrese usuario: ")
+password = input("Ingrese contraseña: ")
+
+if usuario == "admin" and password == "1234":
+    print("Acceso permitido al sistema")
+else:
+    print("Usuario o contraseña incorrectos")
