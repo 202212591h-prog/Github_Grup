@@ -12,3 +12,4 @@ Este proyecto automatiza la evaluación de solicitudes de crédito utilizando 6 
 4. **KNN (Similitud):** Asignado automáticamente al segmento de *Clientes Premium / Pagadores*.
 5. **SVM (Hiperplano de separación):** Clasificado *Sin necesidad de Aval* (dentro del margen seguro de riesgo corporativo).
 6. **Naive Bayes (Probabilidad de Urgencia):** Marcado como *Prioridad Estándar* de atención en plataforma.
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
